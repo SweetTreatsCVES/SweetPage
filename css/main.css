@@ -64,6 +64,14 @@ button:hover{
     grid-template-columns: 1fr 2fr 1fr;
     
 }
+.Prods{
+    display: flex;
+    padding: 5px 5px;
+    gap: 10px;
+    align-items: center;
+    
+    
+}
 
 .prod{
     transition: all 0.3s ease 0s;
@@ -74,6 +82,7 @@ button:hover{
     position: relative;
     border: solid 2px;
     border-radius: 3px;
+    padding: 0px 10px;
 }
 
 .prod img{
@@ -83,11 +92,7 @@ button:hover{
 
 .prod:hover{
     transition: all 0.3s ease 0s;
-    max-width: 700px;
-    width: 700px;
-    max-height: 700px;
-    height: 600;
-    font-size: 200%;
+    font-size: 140%;
 }
 
 .FavTitle{
