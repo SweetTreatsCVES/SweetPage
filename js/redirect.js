@@ -1,1 +1,1 @@
-window.location.replace("../pages/main.html");
+window.location.replace("https://https://sweettreatscves.github.io/SweetPage/pages/main.html");
